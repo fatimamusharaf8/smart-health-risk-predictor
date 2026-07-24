@@ -293,4 +293,4 @@ Top features (XGBoost): `thalach`, `oldpeak`, `ca`, `cp`, `thal`
 
 ## Author
 
-**[Your Name]** | University Project | [LinkedIn](#) | [Portfolio](#)
+**Fatima Musharaf** | University Project | [LinkedIn](#) | [Portfolio](#)
